@@ -1,5 +1,7 @@
 # Discord Server Website Creator
 
+## ! THIS IS NOT FINISHED YET !
+
 Create nice presentable websites for your Discord Servers quickly and easily without having to go through
 every text element individually
 
