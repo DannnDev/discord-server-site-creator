@@ -1,3 +1,1 @@
-# Discord Server Website Creator
-
-(Todo)
+# Discord Server Website Creator - By Da-xn
